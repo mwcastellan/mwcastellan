@@ -1,7 +1,7 @@
 # 👋 Hola, soy Marcelo Walter Castellan.
 Me dedico a la programación en diferentes lenguajes desde el año 1985.
 Tengo una formmación en backend y bases de datos, y ultimamente he realizado desarrollos en JS, Node JS y REACT.
-Descubri el mumdo web3 y lo tomo como un desafío para ampliar mi perfil profesional.
+Descubri Web3 y lo tomo como un desafío para ampliar mi perfil profesional.
 
 ## 🎯 Intereses como desarrollador
 - Desarrollo de software con enfoque en APIs, microservicios y seguridad en SQL
